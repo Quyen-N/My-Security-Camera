@@ -1,5 +1,5 @@
 # My-Security-Camera
-In this project, I use Yolov7 and Opencv to create an auto watch Security Camera.
+In this project, I use Yolov7 and OpenCV to create an Auto Watch Security Camera.
 
 Whenever some one enter a special region on your camera, it will fire a warning signal and highlight the one who entered your restricted area.
 
